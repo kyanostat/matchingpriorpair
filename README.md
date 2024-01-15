@@ -21,7 +21,5 @@ Matchingpriorpair_v1.ipynb : jupyter notebook
 
 # Dependencies
 
-R: palmerpenguins 0.1.1
-
-Python: sklearn 1.2.2, palmerpenguins
+Python: pypolyagamma 1.2.3
 
